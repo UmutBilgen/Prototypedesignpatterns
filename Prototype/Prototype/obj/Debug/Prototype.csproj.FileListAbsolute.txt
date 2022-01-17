@@ -1,0 +1,20 @@
+C:\Users\umutr\source\repos\Prototype\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\umutr\source\repos\Prototype\Prototype\bin\Debug\Prototype.exe
+C:\Users\umutr\source\repos\Prototype\Prototype\bin\Debug\Prototype.pdb
+C:\Users\umutr\source\repos\Prototype\Prototype\obj\Debug\Prototype.csprojAssemblyReference.cache
+C:\Users\umutr\source\repos\Prototype\Prototype\obj\Debug\Prototype.Form1.resources
+C:\Users\umutr\source\repos\Prototype\Prototype\obj\Debug\Prototype.Properties.Resources.resources
+C:\Users\umutr\source\repos\Prototype\Prototype\obj\Debug\Prototype.csproj.GenerateResource.cache
+C:\Users\umutr\source\repos\Prototype\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\umutr\source\repos\Prototype\Prototype\obj\Debug\Prototype.exe
+C:\Users\umutr\source\repos\Prototype\Prototype\obj\Debug\Prototype.pdb
+C:\Users\umutr\OneDrive\Desktop\Yazılım Mimari Ders Notları\Prototype\Prototype\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\umutr\OneDrive\Desktop\Yazılım Mimari Ders Notları\Prototype\Prototype\Prototype\bin\Debug\Prototype.exe
+C:\Users\umutr\OneDrive\Desktop\Yazılım Mimari Ders Notları\Prototype\Prototype\Prototype\bin\Debug\Prototype.pdb
+C:\Users\umutr\OneDrive\Desktop\Yazılım Mimari Ders Notları\Prototype\Prototype\Prototype\obj\Debug\Prototype.csprojAssemblyReference.cache
+C:\Users\umutr\OneDrive\Desktop\Yazılım Mimari Ders Notları\Prototype\Prototype\Prototype\obj\Debug\Prototype.Form1.resources
+C:\Users\umutr\OneDrive\Desktop\Yazılım Mimari Ders Notları\Prototype\Prototype\Prototype\obj\Debug\Prototype.Properties.Resources.resources
+C:\Users\umutr\OneDrive\Desktop\Yazılım Mimari Ders Notları\Prototype\Prototype\Prototype\obj\Debug\Prototype.csproj.GenerateResource.cache
+C:\Users\umutr\OneDrive\Desktop\Yazılım Mimari Ders Notları\Prototype\Prototype\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\umutr\OneDrive\Desktop\Yazılım Mimari Ders Notları\Prototype\Prototype\Prototype\obj\Debug\Prototype.exe
+C:\Users\umutr\OneDrive\Desktop\Yazılım Mimari Ders Notları\Prototype\Prototype\Prototype\obj\Debug\Prototype.pdb
